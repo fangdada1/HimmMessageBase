@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'HimmMessageBase_Example' do
+  pod 'HimmMessageBase', :path => '../'
+
+  target 'HimmMessageBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
