@@ -1,0 +1,6 @@
+framework module HimmMessageBase {
+  umbrella header "HimmMessageBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

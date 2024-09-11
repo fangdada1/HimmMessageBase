@@ -1,0 +1,16 @@
+PODS:
+  - HimmMessageBase (0.1.0)
+
+DEPENDENCIES:
+  - HimmMessageBase (from `../`)
+
+EXTERNAL SOURCES:
+  HimmMessageBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HimmMessageBase: daa6275f5dc63d29875deec87e7e02186f56d39d
+
+PODFILE CHECKSUM: 18929d43c005e72bf93f40819dd83713c8754535
+
+COCOAPODS: 1.14.3
